@@ -64,6 +64,8 @@ The Power BI dashboard covers:
 - Rating distribution and premium listings
 - New vs existing listing price comparison
 - Host-level performance metrics
+- <img width="1178" height="653" alt="image" src="https://github.com/user-attachments/assets/44a7e3e0-6b02-45e7-bf05-f74385086727" />
+
 
 Open AirBnb case study.pbix in Power BI Desktop to explore.
 
