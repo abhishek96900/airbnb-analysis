@@ -65,6 +65,16 @@ The Power BI dashboard covers:
 - New vs existing listing price comparison
 - Host-level performance metrics
 - <img width="1178" height="653" alt="image" src="https://github.com/user-attachments/assets/44a7e3e0-6b02-45e7-bf05-f74385086727" />
+## Dashboard Preview
+
+Key insights from the Power BI dashboard:
+
+- Total Revenue: 326.58M across all Airbnb listings worldwide
+- Average Price: 23.98K per listing with significant variation across countries
+- New Listings: 33.57% of total listings are newly added properties
+- Average Rating: 4.86 out of 5 — indicating consistently high guest satisfaction
+- Country-wise Pricing: Bahamas (1,16,397) and Belize (1,11,575) command the highest average prices
+- Interactive Filters: Dashboard includes country-level slicer enabling drill-down analysis by region
 
 
 Open AirBnb case study.pbix in Power BI Desktop to explore.
